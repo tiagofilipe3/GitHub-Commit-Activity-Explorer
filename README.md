@@ -1,1 +1,0 @@
-# GitHub-Commit-Activity-Explorer
